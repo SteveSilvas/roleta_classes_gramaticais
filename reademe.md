@@ -1,0 +1,1 @@
+Projeto para uso em salas de aula como material didático no ensino de classes gramaticais.
